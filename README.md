@@ -15,7 +15,8 @@ $ stow bash -t ~
 $ stow vim -t ~
 
 # restore fish
-# restore i3 （should install rofi first）
+# restore i3 （should install rofi & dmenu first）
+# restore i3status
 $ stow config -t ~/.config
 ```
 
